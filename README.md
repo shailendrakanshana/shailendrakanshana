@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shailendrakanshana](https://github.com/shailendrakanshana)
 
+- 👨‍💻 Check out my google developer profile [https://g.dev/shailendrakanshana](https://g.dev/shailendrakanshana)
+
 - 📝 I regularly write articles on [https://codefreakpyclub.com/](https://codefreakpyclub.com/)
 
 - 💬 Ask me about **DSA, Web, Machine Learning**
