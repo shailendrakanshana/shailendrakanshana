@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shailendra Singh Kanshana</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science, DSA**
+- 🌱 I’m currently learning **Android Developemt, Machine Learning, Data Science, DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shailendrakanshana](https://github.com/shailendrakanshana)
 
